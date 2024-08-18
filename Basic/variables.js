@@ -7,3 +7,6 @@ let state ="Rajasthan";
 let city="Jaipur ";
 
 console.table([name,RegId,passion,state,city]);
+
+
+
