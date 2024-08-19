@@ -19,20 +19,12 @@ let rollno=23
 
 
 let check=1;
-console.log(typeof check);
-console.log(check);
+// console.log(typeof check);
+// console.log(check);
 
 let bool=Boolean(check);
-console.log(bool);
-console.log(typeof bool);
-
-
-
-
-
-
-
-
+// console.log(bool);
+// console.log(typeof bool);
 
 // Notes
 /*
@@ -45,6 +37,23 @@ false -> 0
 
 
  */
+
+
+// -----------------------------------------------------Operations----------------------------------------------------
+
+
+let value =3;
+let negativeVal=-value;
+console.log(negativeVal);
+
+console.log(1+2);
+console.log("1"+2);
+console.log(1+"2");
+console.log(1+2+"3");
+console.log("1"+2+3);
+
+
+
 
 
 
