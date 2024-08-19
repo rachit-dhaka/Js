@@ -60,5 +60,7 @@ user2.email="rachitdhaka07@gmail.com"
 
 console.log(user.email);
 console.log(user2.email);
+console.log(user.contact);
+
 
 
