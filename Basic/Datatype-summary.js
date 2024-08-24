@@ -42,9 +42,8 @@ const myFunctions=function(){
 let myname="rachit"
 let myotherName=myname
 myotherName="chai or cp"
-
-// console.log(myname);
-// console.log(myotherName);
+console.log(myname);
+console.log(myotherName);
 
 
 
@@ -58,9 +57,10 @@ let user={
 let user2=user
 user2.email="rachitdhaka07@gmail.com"
 
-console.log(user.email);
-console.log(user2.email);
-console.log(user.contact);
+// console.log(user.email);
+// console.log(user2.email);
+// console.log(user.contact);
+
 
 
 
